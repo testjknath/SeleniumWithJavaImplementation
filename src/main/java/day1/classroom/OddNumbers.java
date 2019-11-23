@@ -15,7 +15,7 @@ public class OddNumbers {
 	 * 
 	 * What are my learnings from this code?
 	 * 
-	 * 1)
+	 * 1) Understood the basics
 	 * 2)
 	 * 3) 
 	 * 

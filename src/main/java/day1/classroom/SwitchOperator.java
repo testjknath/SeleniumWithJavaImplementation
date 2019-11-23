@@ -7,13 +7,13 @@ public class SwitchOperator {
 	 * 
 	 * inputs: 2,3 and "add"
 	 * output: added value: 5
-	 * 
+	 *  
 	 * Shortcuts:
 	 * 1) Print : type: syso, followed by: ctrl + space + enter
 	 * 2) To create a Switch case: type 'switch', followed by: ctrl + space + down arrow + enter
 	 *   
 	 * What are my learnings from this code?
-	 * 1)
+	 * 1) Understood this Operator
 	 * 2)
 	 * 3) 
 	 * 

@@ -13,7 +13,7 @@ public class Factorial {
 	 * 2) To create a 'for' loop: type 'for', followed by ctrl + space + down arrow + enter
 	 *   
 	 * What are my learnings from this code?
-	 * 1)
+	 * 1) Understood how to compute the factorial
 	 * 2)
 	 * 3) 
 	 * 
